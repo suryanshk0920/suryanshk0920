@@ -8,7 +8,7 @@ I love code!!
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [suryanshkumar0903@gmail.com](mailto:suryanshkumar0903@gmail.com).
-* 🧠  I'm learning C, PYTHON, JS, REACTJS.
+* 🧠  I'm learning C, PYTHON, JS, ReactJS.
 * 🤝  I'm open to collaborating on Portfolio projects.
 * ⚡  I'm Batman.
 
