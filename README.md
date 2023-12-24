@@ -6,11 +6,11 @@ Student
 
 I love code!!
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [suryanshkumar0903@gmail.com](mailto:suryanshkumar0903@gmail.com)
-* 🧠  I'm learning C, PYTHON, JS, REACTJS
-* 🤝  I'm open to collaborating on Portfolio projects
-* ⚡  I'm Batman
+* 🌍  I'm based in India.
+* ✉️  You can contact me at [suryanshkumar0903@gmail.com](mailto:suryanshkumar0903@gmail.com).
+* 🧠  I'm learning C, PYTHON, JS, REACTJS.
+* 🤝  I'm open to collaborating on Portfolio projects.
+* ⚡  I'm Batman.
 
 <a href="https://www.github.com/suryanshk0920" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suryanshk0920?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
